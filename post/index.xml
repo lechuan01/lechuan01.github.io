@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Le Chuan</title>
+    <link>https://lechuan01.github.io/post/</link>
+    <description>Recent content in Posts on Le Chuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lechuan2001@gmail.com (Le Chuan)</managingEditor>
+    <webMaster>lechuan2001@gmail.com (Le Chuan)</webMaster>
+    <lastBuildDate>Mon, 16 May 2022 18:54:57 +0700</lastBuildDate><atom:link href="https://lechuan01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System design</title>
+      <link>https://lechuan01.github.io/post/system_design/</link>
+      <pubDate>Mon, 16 May 2022 18:54:57 +0700</pubDate>
+      <author>lechuan2001@gmail.com (Le Chuan)</author>
+      <guid>https://lechuan01.github.io/post/system_design/</guid>
+      <description>Requirements: Imagine you have to design a system for serving blogs to massive readers (10k tps). How would you design the system?
+Solving: Step 1: Use cases and constraints: Use cases:  Who can write a blog ? (anyone or having specific constraints) Reader searches keywords, tags,&amp;hellip; Notice to readers for new blogs. &amp;hellip;  Constraints:  Massive readers - 10.000 transaction per second Search should be fast Read heavy or write heavy?</description>
+    </item>
+    
+    <item>
+      <title>The best team</title>
+      <link>https://lechuan01.github.io/post/my-favourite-fc/</link>
+      <pubDate>Sun, 15 May 2022 05:46:02 +0700</pubDate>
+      <author>lechuan2001@gmail.com (Le Chuan)</author>
+      <guid>https://lechuan01.github.io/post/my-favourite-fc/</guid>
+      <description>Barcelona is my favourite football team. They play a simple and rhythmic football. My best Barca is the 2014-2015 Barca with M-S-N triad. They were a worry for all defenses at that time. With Iniesta-Sergio Busquest-Rakitic right below, Barcelona becomes an unstoppable team. He win Treble in 2014-2015 season. They won the treble in the 2014-2015 season, something not many teams can do. </description>
+    </item>
+    
+  </channel>
+</rss>

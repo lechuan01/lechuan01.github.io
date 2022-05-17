@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Le Chuan</title>
+    <link>https://lechuan01.github.io/page/</link>
+    <description>Recent content in Pages on Le Chuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lechuan2001@gmail.com (Le Chuan)</managingEditor>
+    <webMaster>lechuan2001@gmail.com (Le Chuan)</webMaster><atom:link href="https://lechuan01.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://lechuan01.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lechuan2001@gmail.com (Le Chuan)</author>
+      <guid>https://lechuan01.github.io/page/about/</guid>
+      <description>My name is Le Minh Chuan. I&amp;rsquo;m from Phu Yen, Vietnam. I am studying computer science at HCMUT, TP.HCM. I have been Software Development Fresher at Zalo Pay (VNG) from April, 2022. Besides software development, I have some other hobbies like:
+ Reading Book: many genres such as history, novels, philosophy,&amp;hellip; Philosophy: philosophy teaches me to understand the world and more than that, understand myself. Playing Video Games: My favorite games are League of Legends, Fifa,&amp;hellip; Football: I&amp;rsquo;m Cules (Barcelona&amp;rsquo;s fan) Movies  *You can get my contact and opensource of my projects on Github at the bottom of the page.</description>
+    </item>
+    
+  </channel>
+</rss>
